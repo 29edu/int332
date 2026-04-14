@@ -6,9 +6,9 @@
 
     Private Image Registery:-
 
-    Image Naming:-
+    Image Naming:
 
-    Tags and 
+    Tags an
 
 
     
