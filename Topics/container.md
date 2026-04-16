@@ -8,7 +8,7 @@
 
     Image Naming:
 
-    Tags an
+    Tags and
 
 
     
